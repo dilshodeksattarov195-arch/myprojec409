@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchfync",
+        "uuid": 3116171,
+        "checksum": "3gzrii"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
